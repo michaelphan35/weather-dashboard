@@ -18,8 +18,8 @@ can also be downloaded, but the files would need to be extracted afterwards.
 
 ## Screenshots of the Project
 
-![Screenshot for initial website loadup ](./assets/images/initial_load_up?raw=true "Initial Loadup")
-![Screenshot for initial website loadup ](./assets/images/after_city_search?raw=true "After a city is searched")
+![Screenshot for initial website loadup ](./assets/images/initial_load_up.png?raw=true "Initial Loadup")
+![Screenshot for initial website loadup ](./assets/images/after_city_search.png?raw=true "After a city is searched")
 
 ## Link to website
 [Weather-Dashboard Link](https://michaelphan35.github.io/weather-dashboard/)

@@ -22,7 +22,7 @@ can also be downloaded, but the files would need to be extracted afterwards.
 ![Screenshot for initial website loadup ](./assets/images/after_city_search?raw=true "After a city is searched")
 
 ## Link to website
-[Daily Planner Link](https://michaelphan35.github.io/weather-dashboard/)
+[Weather-Dashboard Link](https://michaelphan35.github.io/weather-dashboard/)
 
 ##License 
 [GPL](https://choosealicense.com/licenses/gpl-3.0/)
